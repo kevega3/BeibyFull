@@ -1,0 +1,36 @@
+.img-circle{
+    
+    border-radius: 130px;
+    
+    
+}
+
+.fa{
+    position: absolute;
+    left: 340px;
+    top: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    color: gray;
+}
+
+.fa.active{
+    
+    color: dodgerblue;
+    
+    
+}
+
+.recuperarclave{
+    position: relative;
+   margin-left: 76px;
+    color: black;
+    text-align: center;
+    font-size: 17px;
+    
+}
+
+.volver{
+    background: #D4AC0D;
+    
+}

@@ -1,0 +1,83 @@
+body{
+    margin-left: 37px;
+    width: 860px;
+    margin-top: 94px;
+}
+
+.card-header h2 {
+    font-weight: 900;
+    text-align: center;
+}
+
+.form-control{
+    border: none;
+}
+
+.parte1{
+    border: none;
+    height: 160px;
+}
+
+.form-control.parte2{
+    border: none;
+    height: 160px;
+}
+
+.parte1 label{
+    font-size: 13.5px;
+    color: black;
+    font-weight: 600; 
+}
+
+.parte1 input{
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.parte2{
+    margin-top: -60px;
+}
+
+.parte2 label{
+    font-size: 13.5px;
+    color: black;
+    font-weight: 600; 
+}
+
+.parte2 input{
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+#btncrear{
+    border-radius: 35px;
+    margin-top: 8%;
+    margin-left: 25%;
+    width: 200px;
+    height: 45px; 
+    text-align: center;
+    text-justify:auto;  
+}
+
+#cancelar{
+    border-radius: 30px;
+    margin-left: 45%;
+    margin-top: 2%;
+    width: 200px;
+    height: 45px;
+    text-orientation: upright;
+    text-align: center;
+    padding: 0px;
+    text-justify:auto;
+}
+
+#btn_editar{
+    border-radius: 35px;
+    color: white;
+
+    margin-left: 73%;
+    width: 300px;
+    height: 45px; 
+    text-align: center;
+    text-justify:auto;
+}

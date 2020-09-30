@@ -1,0 +1,103 @@
+body{
+    margin-left: 37px;
+    width: 860px;
+    margin-top: 34px;
+}
+
+.card-header h2 {
+    font-weight: 900;
+    text-align: center;
+}
+
+.form-control{
+    border: none;
+}
+
+.parte1{
+    border: none;
+    height: 160px;
+    margin-top: -60px;
+}
+
+.form-control.parte2{
+    border: none;
+    height: 160px;
+}
+
+.parte1 label{
+    font-size: 13.5px;
+    color: black;
+    font-weight: 600; 
+}
+
+.parte1 input{
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.parte2{
+    margin-top: -60px;
+}
+
+.parte2 label{
+    font-size: 13.5px;
+    color: black;
+    font-weight: 600; 
+}
+
+.parte2 input{
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.parte3{
+    margin-top: -60px;
+}
+
+.parte3 label{
+    font-size: 13.5px;
+    color: black;
+    font-weight: 600;
+}
+
+.parte3 input{
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.parte4{
+    margin-top: -30px;
+}
+
+#btncrear{
+    border-radius: 35px;
+    margin-top: -12%;
+    margin-left: 25%;
+    width: 200px;
+    height: 45px; 
+    text-align: center;
+    text-justify:auto;
+}
+
+#btneditarsede{
+    border-radius: 35px;
+    color: white;
+    margin-top:-9%;
+    margin-left: 73%;
+    width: 300px;
+    height: 45px; 
+    text-align: center;
+    text-justify:auto;
+}
+
+#cancelar{
+    border-radius: 30px;
+    margin-left: 45%;
+    margin-top: -2%;
+    width: 200px;
+    height: 45px;
+    text-orientation: upright;
+    text-align: center;
+    text-justify:auto;
+    padding: 0px;
+}

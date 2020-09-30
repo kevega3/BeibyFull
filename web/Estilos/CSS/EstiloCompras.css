@@ -1,0 +1,261 @@
+body{
+    margin-left:4%;
+    width:850px;
+}
+
+.form-control{
+    width:850px;
+    border:none;
+}
+
+.numerodeserie2 label{
+    margin-top: 24px;
+    color:  black;
+    font-weight: 900;
+    margin-left: 550px;
+}
+
+.numerodeserie2 input{
+    position: relative;
+    height: 35px;
+    width: 180px;
+    margin-left: 650px;
+    margin-top: -35px;
+    border-bottom: 1px solid gray;
+    background: transparent;
+    text-align: center;
+}
+
+.partefecha2 label {
+    position: relative;    
+    top: -30px;
+    color:  black;
+    font-weight: 900;
+    margin-left: 0px;
+}
+
+.partefecha2 input{
+    height: 35px;
+    margin-left: 10%;
+    width: 180px;
+    margin-top: -60px;
+    text-align: center;
+    text-justify: auto;
+    font-weight: 600;   
+}
+
+.p1{
+    margin-top: -32px;
+    margin-left: 680px;
+    font-weight: 700;
+}
+
+.p2{
+    margin-top: -12px;
+    margin-left: 680px;
+    font-weight: 700;
+}
+
+.partecedulaprov label {
+    font-size: 13.5px;
+    margin-top: 0px; 
+    color: black;
+    font-weight: 400;
+}
+
+.partecedulaprov input{
+    width: 320px;
+    border: none;
+    margin-left: 0px;
+    border-bottom: 1px solid gray;
+}
+
+.nombreprovprov label{
+    font-size: 13.5px;
+    margin-top: 0px; 
+    color: black;
+    margin-left: 20px;
+    font-weight: 400;
+}
+
+.nombreprovprov input{
+    width: 290px;
+    margin-left:  20px;
+    margin-top: 0px;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.btnbprov{
+    border-radius: 50px;
+    margin-top:  15px;
+}
+
+/*Parte de Sede*/
+
+.partecedulasede label{
+    font-size: 13.5px;
+    color: black;
+    font-weight: 400;
+}
+
+.partecedulasede input{
+    width: 340px;
+    border-bottom: 1px solid gray;
+}
+
+.nombresede label{
+    font-size: 13.5px;
+    color: black;
+    font-weight: 400;
+}
+
+.nombresede input{
+    width: 340px;
+    border-bottom: 1px solid gray;
+}
+
+.btnsede{
+    border-radius: 50px;
+    margin-top:  15px;
+    margin-left: 0px;
+}
+
+/*Parte de producto*/
+
+.parte-prod{
+    left: 0%;
+    background: transparent;
+}
+
+
+.lblcodpro{
+    font-size: 13.5px;
+    margin-top: -613px;
+    color: black;
+}
+
+.partecodigo{
+    width: 690px;
+    border: none;
+}
+
+.partecodigo .txtcodpro{
+    width: 320px;
+    border: none;
+    border-bottom:1px solid grey;
+    background: transparent;
+}
+
+.lblnombreprod{
+    font-size: 13.5px;
+    margin-top: -603px;
+    margin-left: 15px;
+    color: black;
+}
+
+.partenombre  .txtnombreprod{
+    width: 280px;
+    margin-left: 10px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.btnprod{
+    border-radius: 50px;
+    margin-left: -5px;
+    margin-top: 35px;
+    background: transparent;
+
+}
+
+.parteprod2{
+    left: 0%;
+    background: transparent;
+}
+
+.partemonto{
+    background: transparent;
+}
+
+.partemonto label{
+    font-size: 13.5px;
+    color: black;
+    font-weight:  500;
+}
+
+.partemonto input{
+    border: none;
+    border-bottom:1px solid gray;
+    background: transparent;
+}
+
+.partecantidad input{
+    text-align: center
+}
+
+.partecantidad{
+    background: transparent;
+}
+
+.partecantidad label{
+    position: relative;
+    font-size: 13.5px;
+    top:-5px;
+    color: black;  
+    font-weight:  500;
+}
+.partecantidad input{
+    border: none;
+    border-bottom:1px solid gray;
+    background: transparent;
+    margin-top: -7px;
+}
+
+.partestock label{
+    font-size: 13.5px;
+    color: black;
+    left: 90px;
+    font-weight:  500;   
+}
+
+.partestock input{
+    width: 180px;
+    border: none;
+    border-bottom:1px solid gray;
+    background: transparent;
+    margin-top: -2px;
+}
+
+/*Parte de botón de enviar*/
+
+.registro{
+    width: 250px;
+    height: 40px;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 19px;
+}
+
+.btngenerar{
+    width: 250px;
+    border-radius: 50px;
+}
+
+.lbltotal{
+    position:  relative;
+    font-size: 15px;
+    font-weight: 900;
+    top:6px;
+    margin-left: -58px;
+}
+
+.txttotal{
+    margin-top: -30px;
+}
+.btnprod{
+    margin-left: 50px;
+    
+}

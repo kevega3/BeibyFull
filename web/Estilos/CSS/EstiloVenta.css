@@ -1,0 +1,323 @@
+body{
+    margin-left:4%;
+    width:850px;
+   border:  none;
+}
+
+.form-control{
+    width:700px;
+    border:none;
+    background: transparent;
+}
+
+.parteserie{
+    position: absolute; 
+    left: 0%;
+    width: 14%;
+    margin-left: 70%;
+    text-align: center;
+}
+
+.parteserie input{
+    height: 35px;
+    width: 180px;
+    margin-left: 55px;
+    margin-top: 5px;
+}
+
+.i-serie{
+    text-align: center;
+    text-justify: auto;
+    font-weight: 600;
+}
+
+.parteserie label{
+    position: relative;
+    margin-left:-100px;
+    top: 40px;
+    font-weight: 900;
+}
+
+.partefecha label{
+    position: relative;
+    margin-left:-50px;
+    top: 53px;
+    margin-left: 2%;
+    font-weight: 900;
+    color: black;    
+}
+
+.partefecha input{
+    height: 35px;
+    margin-left: 10%;
+    width: 180px;
+    margin-top: 17px;
+    text-align: center;
+    text-justify: auto;
+    font-weight: 600;   
+}
+
+.cabecera{
+    border: none;
+    top: -20px;
+    left: 0%;
+    background: transparent;
+    position: absolute;
+}
+
+.p1{
+    margin-top: -32px;
+    margin-left: 680px;
+    font-weight: 700;
+}
+
+.p2{
+    margin-top: -12px;
+    margin-left: 680px;
+    font-weight: 700;
+}
+
+h4{
+    margin-top: 29px;
+}
+
+/*Parte de empleados*/
+
+.parte-empleado{
+    width: 820px;
+    left: 0%;
+    top: 105px;
+    background: transparent;
+    border: none ;
+}
+
+.l-ccemple{
+    font-size: 13.5px;
+    margin-top: -613px; 
+    color: black;
+}
+
+.partecedula{
+    width: 690px;
+    border: none;
+}
+
+.partecedula input{
+    border: none ;
+    width: 300px;
+    border-bottom: 1px solid gray;
+}
+
+.l-nombree{
+    font-size: 13.5px;
+    margin-top: -613px;
+    margin-left: 15px;
+    color: black;
+}
+
+.nombreem .i-nombree{
+    width: 140px;
+    border: none;
+    margin-left: 15px;
+    border-bottom: 1px solid gray;
+}
+
+.nombreem .i-apellidos{
+    width: 135px;
+    margin-left:  170px;
+    margin-top: -45px;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.botoncl {
+    border-radius: 50px;
+    margin-left:43px;
+    margin-top: 5px;
+    background: transparent;
+}
+
+/*Estilo de cliente*/
+
+.parte-cliente{
+    left: 0%;
+    top: 90px;
+    background: transparent;
+    width: 820px;
+}
+
+.parte-cliente .i-cccliente {
+    width: 340px;
+    border: none;
+    border-bottom:1px solid gray;
+}
+
+.incliente input{
+    width: 305px;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.l-cccliente{
+    font-size: 13.5px;
+    color: black;
+}
+
+.incliente label{
+    font-size: 13.5px;
+    color: black;
+}
+
+.incliente .txtnombrec{
+    width: 150px;
+}
+
+.incliente .txtapellidoc{
+    position: relative;
+    margin-top: -46px;
+    width: 140px;
+    border: none;
+    margin-left: 180px;
+    border-bottom: 1px solid gray;
+}
+
+.botonbe {
+    border-radius: 50px;
+    margin-left: 15px;
+    margin-top: 5px;
+    background: transparent;
+}
+
+/*Parte producto*/
+.parteprod{
+    width: 870px;
+    margin-top: 60px;
+    
+}
+
+.lblcodpro{
+    font-size: 13.5px;
+    margin-top: -613px;
+    color: black;
+}
+
+.parte-prod.txtcodpro{
+    border: none;
+    border-bottom:1px solid grey;
+    background: transparent;
+}
+
+.lblnombreprod{
+    font-size: 13.5px;
+    margin-top: -603px;
+    margin-left: 90px;
+    color: black;
+}
+
+.name input{
+    margin-left: 1000px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.parteprod2{
+    left: 0%;
+    top:-40px;
+    background: transparent;
+    width: 820px;
+    height: 200px;
+    border: none;
+}
+
+.partemonto{
+    background: transparent;
+}
+
+.partemonto label{
+    font-size: 13.5px;
+    color: black;
+    font-weight:  500;
+}
+
+.partemonto input{
+    border: none;
+    border-bottom:1px solid gray;
+    background: transparent;
+}
+
+.partecantidad input{
+    text-align: center
+}
+
+.partecantidad{
+    background: transparent;
+}
+
+.partecantidad label{
+    position: relative;
+    font-size: 13.5px;
+    top:-5px;
+    color: black;  
+    font-weight:  500;
+}
+
+.partecantidad input{
+    border: none;
+    border-bottom:1px solid gray;
+    background: transparent;
+    margin-top: -7px;
+}
+
+.partestock label{
+    font-size: 13.5px;
+    color: black;
+    left: 90px;
+    font-weight:  500;   
+}
+
+.partestock input{
+    width: 180px;
+    border: none;
+    border-bottom:1px solid gray;
+    background: transparent;
+    margin-top: -2px;
+}
+
+.btnprod {
+
+    border-radius: 50px;
+    margin-left: 51px;
+    margin-top: 55px;
+    background: transparent;
+}
+
+/*Parte de la tabla*/
+
+/*Parte de botón de enviar*/
+
+.registro{
+    width: 250px;
+    height: 40px;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 19px;
+}
+
+.btngenerar{
+    width: 250px;
+    border-radius: 50px;
+}
+
+.lbltotal{
+    font-weight: 900;
+}
+.txtnombreprod{
+    margin-left: 30px;
+    
+}
+.tabla{
+    
+    margin-top: -70px;
+}
